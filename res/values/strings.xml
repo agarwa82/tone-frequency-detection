@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">audio-tone-detection</string>
+    <string name="hello_world">Welcome to tone detection!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_Request_Message">Start Recording</string>
+    <string name="stopTone">Stop recording</string>
+
+</resources>
